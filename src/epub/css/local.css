@@ -43,11 +43,6 @@ footer{
 /* end of poem/verse/song */
 
 /* custom */
-[epub|type~="z3998:letter"] header{
-	margin-bottom: 1em;
-	text-align: center;
-}
-
 [epub|type~="z3998:letter"] header p{
 	margin-bottom: 1em;
 	text-indent: 0;
@@ -67,7 +62,7 @@ q{
 }
 
 #modeste-mignon blockquote:first-of-type footer{
-	margin-left: 40%;
+	margin-left: 50%;
 	text-align: initial;
 }
 
