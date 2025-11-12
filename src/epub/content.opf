@@ -67,8 +67,8 @@
 		<meta property="file-as" refines="#translator">Bell, Clara</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Clara_Bell</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no93013158</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Constantin Hansen</dc:contributor>
 		<meta property="file-as" refines="#artist">Hansen, Constantin</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Carl Christian Constantin Hansen</meta>
