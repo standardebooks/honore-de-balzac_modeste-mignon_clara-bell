@@ -45,7 +45,7 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:abstract>A young daughter seeks independence on her own terms.</dc:abstract>
+		<meta property="schema:abstract">A young daughter seeks independence on her own terms.</meta>
 		<dc:description>
 			&lt;p&gt;Modeste Mignon is a young woman living with her blind mother and watched over by her absent father’s majordomo and wife. They’re determined to keep her from men until her father returns from his long sea voyage. She’s by all appearances the perfect daughter, but her mother believes Modeste has a secret: she’s in love! The attempts to determine whether this is true, and the aftermath, is &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt; at his wittiest. But even though she may seem like the ideal daughter, Modeste is somewhat subversive, at odds with the prevailing ideas of the time of how an ingénue should behave.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Modeste Mignon&lt;/i&gt;, written in 1844, is one of Balzac’s last additions to the &lt;a href="https://standardebooks.org/collections/the-human-comedy"&gt;Human Comedy&lt;/a&gt;.&lt;/p&gt;
