@@ -66,6 +66,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="translator">Clara Bell</dc:contributor>
 		<meta property="file-as" refines="#translator">Bell, Clara</meta>
+		<meta property="schema:alternateName" refines="#translator">Clara Courtenay Bell</meta>
 		<link href="https://en.wikipedia.org/wiki/Clara_Bell" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no93013158.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
